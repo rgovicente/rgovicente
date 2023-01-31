@@ -1,16 +1,26 @@
-### Hi there 👋
+## Oi
 
-<!--
-**rgovicente/rgovicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Rodrigo Vicenbte
 
-Here are some ideas to get you started:
+Desenvolvedor  + DBA Jr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudantge de  ADS 
+
+Meu foco  atualmente está em Back-end e Banco de Dados
+
+<div>
+
+<img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=rgovicente&show_icons=true&theme=tokyonight"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgovicente&layout=compact&theme=tokyonight"/>
+
+</div>
+
+### Let's get  get connected:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-vicente-85907a206/)
+
+
+
+</div>
+
+          
