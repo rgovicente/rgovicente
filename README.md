@@ -2,11 +2,7 @@
 
 Eu sou Rodrigo Vicenbte
 
-Desenvolvedor  + DBA Jr
-
-Estudantge de  ADS 
-
-Meu foco  atualmente está em Back-end e Banco de Dados
+Profissional em desenvolvimento na área de Desenvolvimento Back-end e Banco de Dados com experiência como Analista de Suporte e orientado ao detalhe que colabora com  as empresas e a sua estrutura tecnológica voltado para proporcionar a melhor experiência ao usuário final.
 
 <div>
 
